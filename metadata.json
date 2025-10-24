@@ -1,0 +1,5 @@
+{
+  "name": "Room Dimension Estimator",
+  "description": "Upload a photo of a room and this app will use AI to analyze the image, estimate dimensions based on common objects for scale, and provide an annotated image highlighting the measurements.",
+  "requestFramePermissions": []
+}
